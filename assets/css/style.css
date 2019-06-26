@@ -104,3 +104,22 @@ footer p {
     font-size: 10px;
     padding-bottom: 25px;
 }
+
+div.portblock {
+    display: inline-block;
+    height: 300px;
+    width:  300px;
+    margin: 20px;
+    background-color: black;
+    border: gray 10px solid;
+}
+
+div.portbar{
+    position: relative;
+    background-color:white;
+    text-align: center;
+    color: black;
+    top: 57%;
+    padding: 15px;
+}
+
